@@ -1,4 +1,4 @@
-Training and Testing ML Classifier in Flutter.
+# Training and Testing ML Classifier in Flutter
 
 This repository contains the code to train and test a machine learning classifier in Flutter using Dart.
 pubspec.yaml: Contains all the required dependencies for the project.
